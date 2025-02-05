@@ -25,7 +25,7 @@ README.md (This file)
 ## 📥 Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/travelista-login.git
+   git clone https://github.com/sndpbag/Login-page-resource.git
 2. Open the Figma file to make design changes.
 3. Use assets in the /images folder for development.
 
@@ -33,7 +33,7 @@ README.md (This file)
 This project is licensed under the MIT License – free to use, modify, and distribute.
 
 📧 Contact
-For queries or collaborations, reach out at your-email@example.com
+For queries or collaborations, reach out at sndpbagg@gmail.com
 
 🚀 Happy Coding & Safe Travels! 🌍
 
